@@ -1,5 +1,4 @@
-Distributed client-based e-mail system using Sockets, Input / Output streams and Threads in the language
-Java programming.
+Distributed client-based e-mail system using Sockets, Input / Output streams and Threads in Java.
 
 Program Classes:
 
